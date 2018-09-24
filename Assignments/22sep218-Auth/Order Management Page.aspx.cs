@@ -11,6 +11,11 @@ namespace _22sep218_Auth
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+           if(!Context.User.IsInRole("Order"))
+            {
+                
+                Response.Redirect("NotAuthorized.aspx");
+            }
 
         }
     }

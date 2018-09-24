@@ -70,22 +70,7 @@
     {%>
 
     <% } %>
-
-                           <%--<% if (HttpContext.Current.User.Identity.IsAuthenticated )
-                               {
-                                   if(Context.User.IsInRole("Product"))%>
-                                     <li ><a runat="server" href="~/Product Management Page">Product Management Page</a></li>
-   
-                           <% }
-                               else
-                              { %>
-
-                                 //your menu hide code
-                               <li><a runat="server" href="~/Order Management Page">Order Management Page</a></li>
-
-                                 <% } %>--%>
-                       
-                    </ul>
+ </ul>
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
                             <ul class="nav navbar-nav navbar-right">

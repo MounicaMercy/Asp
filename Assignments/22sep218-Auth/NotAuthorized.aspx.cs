@@ -7,15 +7,11 @@ using System.Web.UI.WebControls;
 
 namespace _22sep218_Auth
 {
-    public partial class Product_Management_Page : System.Web.UI.Page
+    public partial class NotAuthorized : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (!Context.User.IsInRole("Product"))
-            {
-                
-                Response.Redirect("NotAuthorized.aspx");
-            }
+
         }
     }
 }

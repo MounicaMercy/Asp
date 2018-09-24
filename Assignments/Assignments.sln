@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A21sep2018", "A21sep2018\A21sep2018.csproj", "{4AE7CBDF-3054-4D0D-8B28-E28CEB35CBCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A22sep218-Auth", "22sep218-Auth\A22sep218-Auth.csproj", "{A00E5104-66CA-457A-A5DA-E2C44E519056}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A22sep2018-Auth", "22sep218-Auth\A22sep2018-Auth.csproj", "{A00E5104-66CA-457A-A5DA-E2C44E519056}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
