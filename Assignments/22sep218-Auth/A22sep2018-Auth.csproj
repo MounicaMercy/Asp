@@ -187,6 +187,7 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Account\Web.config" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="NotAuthorized.aspx" />
     <Content Include="Order Management Page.aspx" />
     <Content Include="Product Management Page.aspx" />
     <Content Include="Scripts\bootstrap.js" />
@@ -344,6 +345,13 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="NotAuthorized.aspx.cs">
+      <DependentUpon>NotAuthorized.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NotAuthorized.aspx.designer.cs">
+      <DependentUpon>NotAuthorized.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Order Management Page.aspx.cs">
       <DependentUpon>Order Management Page.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

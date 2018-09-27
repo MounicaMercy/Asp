@@ -1,0 +1,6 @@
+D:\Code\Asp\Assignments\DAL\bin\Debug\DAL.dll
+D:\Code\Asp\Assignments\DAL\bin\Debug\DAL.pdb
+D:\Code\Asp\Assignments\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Code\Asp\Assignments\DAL\obj\Debug\DAL.dll
+D:\Code\Asp\Assignments\DAL\obj\Debug\DAL.pdb
+D:\Code\Asp\Assignments\DAL\obj\Debug\DAL.csprojAssemblyReference.cache

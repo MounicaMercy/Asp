@@ -95,8 +95,8 @@ D:\Code\Asp\Assignments\22sep218-Auth\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Code\Asp\Assignments\22sep218-Auth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\Code\Asp\Assignments\22sep218-Auth\bin\Microsoft.Owin.Security.OAuth.xml
 D:\Code\Asp\Assignments\22sep218-Auth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Code\Asp\Assignments\22sep218-Auth\obj\Debug\A22sep2018-Auth.csprojAssemblyReference.cache
 D:\Code\Asp\Assignments\22sep218-Auth\obj\Debug\A22sep2018-Auth.csproj.CoreCompileInputs.cache
 D:\Code\Asp\Assignments\22sep218-Auth\obj\Debug\A22sep2018-Auth.csproj.CopyComplete
 D:\Code\Asp\Assignments\22sep218-Auth\obj\Debug\22sep218-Auth.dll
 D:\Code\Asp\Assignments\22sep218-Auth\obj\Debug\22sep218-Auth.pdb
+D:\Code\Asp\Assignments\22sep218-Auth\obj\Debug\A22sep2018-Auth.csprojAssemblyReference.cache
